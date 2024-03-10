@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "area": "Software Engineering, Code Quality",
+    "image": "<Image_URL>",
+    "publisher": "Pearson Education",
+    "year_of_publication": "2008",
+    "isbn": "978-0132350884"
+  },
+  {
+    "title": "Code Complete, Second Edition",
+    "author": "Steve McConnell",
+    "area": "Software Development",
+    "image": "<Image_URL>",
+    "publisher": "Microsoft Press",
+    "year_of_publication": "2004",
+    "isbn": "978-0735619678"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "area": "Software Engineering, Design Patterns",
+    "image": "<Image_URL>",
+    "publisher": "Addison-Wesley Professional",
+    "year_of_publication": "1994",
+    "isbn": "978-0201633610"
+  },
+  {
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "area": "Java Programming",
+    "image": "<Image_URL>",
+    "publisher": "Addison-Wesley",
+    "year_of_publication": "2017",
+    "isbn": "978-0134685991"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "area": "Python Programming",
+    "image": "<Image_URL>",
+    "publisher": "O'Reilly Media",
+    "year_of_publication": "2015",
+    "isbn": "978-1491946008"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "area": "Machine Learning, Deep Learning",
+    "image": "<Image_URL>",
+    "publisher": "MIT Press",
+    "year_of_publication": "2016",
+    "isbn": "978-0262035613"
+  }
+]
